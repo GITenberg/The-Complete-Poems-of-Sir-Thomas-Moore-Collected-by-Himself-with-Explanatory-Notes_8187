@@ -41,6 +41,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'Poetry'
+- GITenberg
 title: 'The Complete Poems of Sir Thomas Moore
 
   Collected by Himself with Explanatory Notes'
